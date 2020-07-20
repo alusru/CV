@@ -65,7 +65,7 @@ const Skills = () =>{
             Cross Functional Teams</li>
           <li>
             <i className="fa-li fa fa-check"></i>
-            Agile Development &amp; Scrum</li>
+           d Agile Development &amp; Scrum</li>
         </ul>
       </div>
     </section>
